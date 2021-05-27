@@ -1,16 +1,17 @@
-### Hi there 👋
+---
 
-<!--
-**matt-collins087/matt-collins087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent Projects ⚙️⚙️
 
-Here are some ideas to get you started:
+### [BlueBerryExpress](https://github.com/matt-collins087/BlueberryExpress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gif showing login process](https://thumbs.gfycat.com/ShabbyLiquidBlackrussianterrier-size_restricted.gif)
+![Gif showing teacher portal](https://thumbs.gfycat.com/BruisedPointedAoudad-size_restricted.gif)
+![Gif showing messages dashboard and about us page](https://thumbs.gfycat.com/BarrenWelldocumentedAmphibian-size_restricted.gif)
+
+Blueberry Express aims to make learning a new language easy, fun, and accessible for everyone. Thanks to our team of volunteer language experts, we are able to offer a learning experience that rivals studying a language abroad from the comfort of your home.
+
+---
+
+## Reaching me 📫 :
+
+Email: matt.collins087@gmail.com || https://www.linkedin.com/in/matt-collins087/
