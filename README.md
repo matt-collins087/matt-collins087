@@ -14,4 +14,4 @@ Blueberry Express aims to make learning a new language easy, fun, and accessible
 
 ## Reaching me 📫 :
 
-Email: matt.collins087@gmail.com || https://www.linkedin.com/in/matt-collins087/
+Email: matt.collins087@gmail.com || https://www.linkedin.com/in/matthew-collins-087/
